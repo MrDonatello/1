@@ -1,0 +1,4 @@
+<script>
+var a = prompt("1");
+alert(a);
+<\script>
